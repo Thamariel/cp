@@ -1,0 +1,3 @@
+﻿Regras do seu Servidor
+
+Altere o arquivo regras.txt
