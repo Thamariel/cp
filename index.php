@@ -152,7 +152,7 @@ include("configs/class.captcha.php");
 		</div>
         <!-- //// CONTENT !-->
         
-        <div id="rodape">&copy; 2023 - Developed by <a href="https://discord.gg/p2verpWdE8" target="_blank">THamarieL Comunication</a></div>
+        <div id="rodape">&copy; 2023 - Developed by <a href="https://discord.gg/p2verpWdE8" target="_blank">TamarieL Comunication</a></div>
 
 </body>
 </html>
